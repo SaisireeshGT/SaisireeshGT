@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sai Sireesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Flight-Booking](https://github.com/SaisireeshGT/Flight-Booking)
-
+- 🛰️ I’m currently working on [Satellite Image Analysis](https://www.kaggle.com/code/saisireesh/satellite-image-analysis)
+- ✈️ along with [Flight Booking application](https://github.com/SaisireeshGT/Flight-Booking)
 - 🌱 I’m currently learning **TensorFlow, Django, Computer Vision, Python, MySql.**
 
 - 📫 How to reach me **sai.sireesh123@gmail.com**
