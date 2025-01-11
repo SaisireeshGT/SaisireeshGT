@@ -1,11 +1,28 @@
-<h1 align="center">Hi 👋, I'm Sai Sireesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 class="text-4xl font-semibold text-center text-blue-600">Hi 👋, I'm Sai Sireesh</h1>
+<h3 class="text-2xl font-medium text-center text-gray-600 mb-8">A passionate frontend developer from India</h3>
 
-- 🛰️ I’m currently working on [Satellite Image Analysis](https://www.kaggle.com/code/saisireesh/satellite-image-analysis)
-- ✈️ along with [Flight Booking application](https://github.com/SaisireeshGT/Flight-Booking)
-- 🌱 I’m currently learning **TensorFlow, Django, Computer Vision, Python, MySql.**
+<div class="max-w-3xl mx-auto p-6 bg-gray-50 rounded-lg shadow-lg">
+  <ul class="space-y-4 text-lg text-gray-800">
+    <li>
+      <span class="font-semibold text-blue-500">🛰️ </span>
+      I’m currently working on <a href="https://www.kaggle.com/code/saisireesh/satellite-image-analysis" class="text-blue-600 hover:underline">Satellite Image Analysis</a>
+    </li>
+    <li>
+      <span class="font-semibold text-blue-500">✈️ </span>
+      Along with <a href="https://github.com/SaisireeshGT/Flight-Booking" class="text-blue-600 hover:underline">Flight Booking application</a>
+    </li>
+    <li>
+      <span class="font-semibold text-blue-500">🌱 </span>
+      I’m currently learning <strong class="text-blue-600">TensorFlow, Django, Computer Vision, Python, MySQL</strong>.
+    </li>
+  </ul>
+  
+  <div class="mt-6">
+    <span class="font-semibold text-blue-500">📫 </span>
+    How to reach me: <a href="mailto:sai.sireesh123@gmail.com" class="text-blue-600 hover:underline">sai.sireesh123@gmail.com</a>
+  </div>
+</div>
 
-- 📫 How to reach me **sai.sireesh123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
