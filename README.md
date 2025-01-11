@@ -1,36 +1,86 @@
-<h1 class="text-4xl font-semibold text-center text-blue-600">Hi 👋, I'm Sai Sireesh</h1>
-<h3 class="text-2xl font-medium text-center text-gray-600 mb-8">A passionate frontend developer from India</h3>
+<h1 align="center" class="text-4xl font-semibold text-blue-600">Hi 👋, I'm Sai Sireesh</h1>
+<h3 align="center" class="text-2xl font-medium text-gray-600">A Passionate Frontend Developer from India 🌟</h3>
 
-<div class="max-w-3xl mx-auto p-6 bg-gray-50 rounded-lg shadow-lg">
-  <ul class="space-y-4 text-lg text-gray-800">
-    <li>
-      <span class="font-semibold text-blue-500">🛰️ </span>
-      I’m currently working on <a href="https://www.kaggle.com/code/saisireesh/satellite-image-analysis" class="text-blue-600 hover:underline">Satellite Image Analysis</a>
-    </li>
-    <li>
-      <span class="font-semibold text-blue-500">✈️ </span>
-      Along with <a href="https://github.com/SaisireeshGT/Flight-Booking" class="text-blue-600 hover:underline">Flight Booking application</a>
-    </li>
-    <li>
-      <span class="font-semibold text-blue-500">🌱 </span>
-      I’m currently learning <strong class="text-blue-600">TensorFlow, Django, Computer Vision, Python, MySQL</strong>.
-    </li>
-  </ul>
-  
-  <div class="mt-6">
-    <span class="font-semibold text-blue-500">📫 </span>
-    How to reach me: <a href="mailto:sai.sireesh123@gmail.com" class="text-blue-600 hover:underline">sai.sireesh123@gmail.com</a>
-  </div>
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=0078D6&center=true&vCenter=true&width=450&lines=Frontend+Developer;Machine+Learning+Enthusiast;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 **About Me:**
+- 🛰️ **Currently Working On:**  
+  **[Satellite Image Analysis](https://www.kaggle.com/code/saisireesh/satellite-image-analysis)** — *Analyzing satellite imagery to extract insights.*  
+- ✈️ **Flight Booking Application:**  
+  **[Flight Booking App](https://github.com/SaisireeshGT/Flight-Booking)** — *A web-based flight booking system built with Django.*
+
+- 🌱 **Currently Learning:**  
+  - **TensorFlow**  
+  - **Django**  
+  - **Computer Vision**  
+  - **Python**  
+  - **MySQL**
+
+---
+
+### 📬 **How to Reach Me:**
+- 📧 **Email:** [sai.sireesh123@gmail.com](mailto:sai.sireesh123@gmail.com)  
+- 🌐 **Portfolio:** Coming soon!  
+
+---
+
+### 🤝 **Connect with Me:**
 <p align="left">
-<a href="https://www.linkedin.com/in/sai-sireesh-gt-7a502b284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai sireesh gt" height="30" width="40" /></a>
-<a href="https://kaggle.com/saisireesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saisireesh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sai_sireesh123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sai sireesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sai_sireesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sai_sireesh" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sai-sireesh-gt-7a502b284/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://kaggle.com/saisireesh" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sai_sireesh123" target="blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
+  </a>
+  <a href="https://www.leetcode.com/sai_sireesh" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 💻 **Languages and Tools:**
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+### 📈 **GitHub Stats:**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaisireeshGT&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaisireeshGT&theme=radical" alt="GitHub Streak" />
+</div>
