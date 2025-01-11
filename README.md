@@ -13,7 +13,7 @@
 - 🛰️ **Currently Working On:**  
   **[Satellite Image Analysis](https://www.kaggle.com/code/saisireesh/satellite-image-analysis)** — *Analyzing satellite imagery to extract insights.*  
 - ✈️ **Flight Booking Application:**  
-  **[Flight Booking App](https://github.com/SaisireeshGT/Flight-Booking)** — *A web-based flight booking system built with Django.*
+  **[Flight Booking App](https://github.com/SaisireeshGT/Flight-Booking)** — *A web-based flight booking system built with PHP.*
 
 - 🌱 **Currently Learning:**  
   - **TensorFlow**  
