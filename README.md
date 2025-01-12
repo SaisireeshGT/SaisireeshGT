@@ -1,10 +1,10 @@
 <h1 align="center" class="text-4xl font-semibold text-blue-600">Hi 👋, I'm Sai Sireesh</h1>
-<h3 align="center" class="text-2xl font-medium text-gray-600">A Passionate Frontend Developer from India 🌟</h3>
+<h3 align="center" class="text-2xl font-medium text-gray-600">A Passionate Developer from India 🌟</h3>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=0078D6&center=true&vCenter=true&width=450&lines=Frontend+Developer;Machine+Learning+Enthusiast;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=0078D6&center=true&vCenter=true&width=450&lines=Web+Developer;Machine+Learning+Enthusiast;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 ---
@@ -26,7 +26,7 @@
 
 ### 📬 **How to Reach Me:**
 - 📧 **Email:** [sai.sireesh123@gmail.com](mailto:sai.sireesh123@gmail.com)  
-- 🌐 **Portfolio:** Coming soon!  
+  
 
 ---
 
